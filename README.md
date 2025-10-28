@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vijay (@tpmvijay)
+# 👋 Hi, I'm Vijay (@xvor)
 
 I’m a **Privacy-focused Technical Program Manager** exploring how systems, products, and people intersect to build trustworthy technology.
 
